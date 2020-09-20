@@ -1,4 +1,4 @@
-# Prima infografica
+## Prima infografica
 
 set.seed(1112344789)
 library(ggplot2)
