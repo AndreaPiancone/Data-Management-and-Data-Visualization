@@ -10,7 +10,7 @@
 
 ----
 
-- [Link]([Scopri Google Drive – Un unico posto per tutti i tuoi file](https://drive.google.com/drive/u/0/folders/1QxfOTWAOcLSVjg-QvkRJwD4GvP54gEp2)) ai dataset
+- [Link](https://drive.google.com/drive/u/0/folders/1QxfOTWAOcLSVjg-QvkRJwD4GvP54gEp2) ai dataset
 
 - Link al report di Data Management
 
