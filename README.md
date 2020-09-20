@@ -55,5 +55,12 @@ To do list:
 - [x] Viusalizzazioni interattive da realizzare con Tableu
 
 
+### Membri
+---
+- Maddalena Baldo
+- Daniele Monterisi
+- Andrea Piancone
 
-N.B.: i codici non contengono le chiavi di accesso alle API.
+
+
+N.B.: i codici non contengono le chiavi di accesso alle API. Questa è la versione pubblica di un repository privato.
