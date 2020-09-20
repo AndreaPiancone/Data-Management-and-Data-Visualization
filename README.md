@@ -12,7 +12,7 @@
 
 - [Link](https://drive.google.com/drive/u/0/folders/1QxfOTWAOcLSVjg-QvkRJwD4GvP54gEp2) ai dataset
 
-- Link al report di Data Management
+- [Link](https://github.com/AndreaPiancone/Data-Management-and-Data-Visualization/blob/master/Report%20%2B%20Slides/Report_Data_Management_BMP.pdf) al report di Data Management
 
 - Link al report di Data Visualization
 
