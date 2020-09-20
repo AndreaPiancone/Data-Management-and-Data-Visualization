@@ -16,9 +16,9 @@
 
 - [Link](https://github.com/AndreaPiancone/Data-Management-and-Data-Visualization/blob/master/Report%20%2B%20Slides/Report_Data_Visualization_BMP.pdf) al report di Data Visualization
 
-- Link alla presentazione 
+- [Link](https://github.com/AndreaPiancone/Data-Management-and-Data-Visualization/blob/master/Report%20%2B%20Slides/presentazione_data_man_def_3.pdf) alla presentazione 
 
-- Link alle infografiche realizzate con Tableu
+- [Link](https://public.tableau.com/profile/andrea2646#!/vizhome/VisualizzazioniEsamesettembre/Storia1) alle infografiche realizzate con Tableu
 
 
 
