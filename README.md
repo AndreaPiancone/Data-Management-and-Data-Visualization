@@ -2,7 +2,7 @@
 
 
 
-## Come creare il videogioco di successo?
+## Come creare un videogioco di successo?
 
 
 
